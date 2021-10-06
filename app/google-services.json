@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242284595096",
+    "project_id": "tatudavomat",
+    "storage_bucket": "tatudavomat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242284595096:android:1b9a28f2e2ace35478cded",
+        "android_client_info": {
+          "package_name": "com.example.tdavomatustoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242284595096-vi8ccb646fme55kpaepmn0odthlriged.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiVbuh_NPWhZOI1Z51RUQozUfY63ygUbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242284595096-vi8ccb646fme55kpaepmn0odthlriged.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
